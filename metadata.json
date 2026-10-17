@@ -1,0 +1,6 @@
+{
+  "name": "Roufaida Gheraibia — AI Engineering Portfolio",
+  "description": "AI Engineering and Machine Learning portfolio of Roufaida Gheraibia, featuring applied ML pipelines, computer vision, and NLP systems.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
